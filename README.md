@@ -28,3 +28,7 @@ Um fractal é um objeto geométrico que pode ser dividido em partes, cada uma da
 
 ### Snowflake
 ![snowflake](https://user-images.githubusercontent.com/45864414/123876270-6f4e3580-d911-11eb-894c-ad180705455f.png)
+
+
+### Cool Fractal
+![cool_fractal](https://user-images.githubusercontent.com/45864414/125171199-3f145b80-e189-11eb-8cc1-1400fcc9a6db.png)
